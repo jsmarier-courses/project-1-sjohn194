@@ -1,12 +1,19 @@
 html, body {
     margin: 0;
     padding: 0px 0px 0px 0px;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto';
     color: #666666;
 }
 
 body {
-    background-color: whitesmoke;
+    background-color: lightgoldenrodyellow;
+}
+
+h1 {
+    font-size: 20pt;
+    font-family: 'Lucida Sans';
+    color: green;
+
 }
 
 .top-bar {
@@ -17,16 +24,18 @@ body {
 }
 
 .logo {
-   font-size: 30px;
+   font-size: 12px;
    position: absolute;
    padding: 0px 0px 0px 20px;
    z-index: 3;
-   color: #131359;
+   color: teal;
    font-weight: bold;
+   font-style: italic;
+   font-family: 'Courier New', Courier, monospace; 
 }
 
 .top-menu {
-   background-color: #131359;
+   background-color: turquoise;
    position: absolute;
    top: 85px;
    z-index: 2;
@@ -35,7 +44,7 @@ body {
 
 .top-menu ul {
     list-style-type: none;
-    font-size: 20px; 
+    font-size: 15px; 
     float: right;
     margin-right: 20px;
 }
@@ -51,11 +60,12 @@ body {
 }
 
 .top-menu li a:hover {
-    background-color: red;
+    background-color: yellow;
+    color:aqua;
 }
 
 .current-page-link {
-    background-color: #db0e0e;
+    background-color: yellowgreen;
 }
 
 .page-content {
@@ -74,10 +84,11 @@ body {
 
 .main-section h1, .main-section h2 {
     color: black;
+    background-color: lightblue; opacity: 0.5;
 }
 
 .main-section figure, .main-section img {
-    display: block;
+    display: inline;
     margin: auto;
     width: 800px;
 }
@@ -89,7 +100,9 @@ body {
     max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
-    background-color:#3f3c3c;
+    background-color:lightgreen;
+    color: turquoise;
+    border-style: dotted;
 }
 
 .footer-content {
