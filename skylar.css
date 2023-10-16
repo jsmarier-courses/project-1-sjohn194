@@ -115,5 +115,6 @@ h1 {
 }
 
 .footer-content p {
-    color:white;
+    color:lightcyan;
+    font-style: italic;
 }
