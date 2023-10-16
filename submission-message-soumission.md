@@ -19,13 +19,11 @@ https://jsmarier-courses.github.io/project-1-sjohn194/
 5. Changed footer background colour to light green
 6. Added h1 background colour (light blue)
 7. Made the opacity of main section h1 background 50%
-8. Made logo font style italic
-9. Made logo font Courier New/monospace
-10. Changed logo font size from 30px to 12px
+8. Set h1 font colour to green
+9. Changed background color from whitesmoke to light yellow
+10. Changed p text colour in footer to white
 11. Added dotted border to footer
 12. Changed menu list font from 20px to 15px
 13. Added h1 ruleset for titles (outside of main section)
 14. Set h1 font size to 20pt
 15. Set h1 font to Lucida Sans
-16. Set h1 font colour to green
-17. Changed background color from whitesmoke to light yellow
