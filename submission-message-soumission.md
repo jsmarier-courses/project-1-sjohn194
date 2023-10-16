@@ -12,11 +12,11 @@ https://jsmarier-courses.github.io/project-1-sjohn194/
 
 ##CSS:
 
-1. Changed top menu background colour to turquoise
+1. Changed top menu background colour to teal
 2. Changed top menu hover colour to yellow
 3. Changed the menu hover font colour to aqua (so it was readable on the yellow)
 4. Changed the current page background colour of the menu to yellow green
-5. Changed footer background colour to light green
+5. Changed footer background colour to teal
 6. Added h1 background colour (light blue)
 7. Made the opacity of main section h1 background 50%
 8. Set h1 font colour to green

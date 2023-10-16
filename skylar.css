@@ -35,7 +35,7 @@ h1 {
 }
 
 .top-menu {
-   background-color: turquoise;
+   background-color: teal;
    position: absolute;
    top: 85px;
    z-index: 2;
@@ -100,14 +100,13 @@ h1 {
     max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
-    background-color:lightgreen;
+    background-color:teal;
     color: turquoise;
     border-style: dotted;
 }
 
 .footer-content {
     padding: 5px 5px 5px 20px;
-    color: dark;
 }
 
 .footer-content a:link {
